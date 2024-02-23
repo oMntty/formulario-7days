@@ -6,9 +6,7 @@
 
 <i>IMPORTANTE: Esta empresa é fictícia para fins acadêmicos para o meu treinamento de HTML e CSS</i>
 
-Este projeto, desenvolvido como parte de um desafio proposto pela Alura, teve a duração de 7 dias e exigiu a criação de um site utilizando apenas HTML e CSS, sem a utilização de bibliotecas. Porém eu utilizei o framework <strong>Animate.css</strong>.
-
-O desafio visava explorar e aplicar todo o conhecimento adquirido no curso de HTML e CSS fornecido pela Alura.
+Este projeto, desenvolvido como parte de um desafio proposto pela Alura, teve a duração de 7 dias e exigiu a criação de um site utilizando apenas HTML e CSS, sem a utilização de bibliotecas. Porém eu utilizei o framework <strong>Animate.css</strong> e desenvolvi em Live no meu canal da Twitch. 🤓
 
 O objetivo principal era reproduzir fielmente o layout fornecido no seguinte link: [Figma - 7daysOfCode](https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?type=design&node-id=0-9878&mode=design&t=Mk5PYOPrzmVEpy5D-0).
 
