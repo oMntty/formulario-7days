@@ -1,0 +1,15 @@
+@import url(/styles/header.css);
+
+:root {
+  --vinho-escuro: #8e2424;
+  --preto: #000000;
+  --cinza-claro: #667085;
+  --branco: #fff;
+
+  --fonte-principal: "Inter";
+}
+
+body {
+  overflow-x: hidden;
+  box-sizing: border-box;
+}
