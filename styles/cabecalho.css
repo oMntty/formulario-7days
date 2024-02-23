@@ -1,0 +1,33 @@
+.cabecalho {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 5%;
+  margin-bottom: -0.5em;
+}
+
+.cabecalho_titulo {
+  display: flex;
+  color: var(--vinho-escuro);
+  font-family: var(--fonte-principal);
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.cabecalho_titulo_texto {
+  display: flex;
+  color: var(--preto);
+  font-family: var(--fonte-principal);
+  font-size: 48px;
+  font-weight: 900;
+}
+.cabecalho_descricao {
+  font-size: 20px;
+  font-family: var(--fonte-principal);
+  text-align: center;
+  margin: auto;
+  line-height: 1.6;
+  max-width: 800px;
+  color: var(--cinza-claro);
+}
