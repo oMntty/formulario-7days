@@ -12,8 +12,6 @@ O objetivo principal era reproduzir fielmente o layout fornecido no seguinte lin
 
 Além de replicar o design proposto, foram realizadas algumas implementações adicionais para aprimorar a experiência do usuário, como a integração de animações utilizando o Animate.css. Também foram adicionados efeitos de hover para proporcionar uma interação mais suave e agradável ao usuário.
 
-Destaca-se que o projeto foi concluído em um período de apenas 4 dias, demonstrando eficiência e habilidade no desenvolvimento de soluções web.
-
 <h1 align="center"> Apresentação do Projeto por Partes </h1>
 
 O escopo deste projeto consistiu no desenvolvimento da página principal do site, comumente conhecida como "Home". Abaixo, segue uma lista detalhada dos elementos implementados:
