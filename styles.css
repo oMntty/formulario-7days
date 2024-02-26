@@ -1,6 +1,9 @@
 @import url(/styles/header.css);
 @import url(/styles/cabecalho.css);
 @import url(/styles/metricas.css);
+@import url(/styles/vagas.css);
+@import url(/styles/depoimentos.css);
+@import url(/styles/formulario.css);
 
 :root {
   --vinho-escuro: #8e2424;
