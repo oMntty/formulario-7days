@@ -18,13 +18,13 @@ O escopo deste projeto consistiu no desenvolvimento da página principal do site
 
 <ul>
     <li><strong>Header</strong> - Aqui se trata da parte de inicio do header da página. Colocando para o usuário algumas informaçoes importantes como serviços e a home do site. Aqui foram implementadas animações debaixo do texto com uma API. </li>
-    <li><strong>Cabeçalho</strong> -  </li>
-    <li><strong>Métricas</strong> -  </li>
-    <li><strong>Vagas</strong> -</li>
-    <li><strong>Depoimentos</strong> -  </li>
-    <li><strong>Formulário</strong> -  </li>
+    <li><strong>Cabeçalho</strong> - No cabeçalho foi trabalhado as escritas aplicadas a um padrão no arquivo base do CSS. </li>
+    <li><strong>Métricas</strong> - De acordo com o layout disponibilizado no Figma, foi trabalhado com Flexbox sendo um pouco trabalhoso de início. Além das implementações de Flexbox, foi adicionada uma animação no hover, onde as cores se diferenciam enquanto passa o cursor por cima. </li>
+    <li><strong>Vagas</strong> - Foi seguido de forma rigorosa o layout do Figma, fazendo de forma rápida a implementação da imagem colocada no projeto. </li>
+    <li><strong>Depoimentos</strong> - Nesta seção foi bem rápida de ser construida, pois só utilizei os conhecimentos das seções anteriores e assim otimizando o desenvolvimento. </li>
+    <li><strong>Formulário</strong> - O formulário foi bem facilitado pela sua posição, trabalhando assim com footer para deixar ele descomplicado e eficiente ao usuário. </li>
 </ul>
 
 O projeto foi desenvolvido em Stream no meu canal da Twitch, aprendendo e ensinando alguns conceitos que sei e que aprendi na hora durante as lives. Com intuito de melhorar e repetir o Design criado pelo pessoal da equipe do 7DaysOfCode.
 
-<h1 align="center"> Reflexão sobre o Desenvolvimento do Projeto: Conquista de Autonomia na Programação e Busca por Excelência </h1>
+<h1 align="center"> Reflexão sobre o Desenvolvimento do Projeto: Conquista em autonomia para trablhar com frameworks de CSS. E uma boa dinâmica com o público que estava codando junto na Twitch. </h1>
